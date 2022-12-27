@@ -1,6 +1,12 @@
 # Taiko - Node
 A decentralized Ethereum-equivalent ZK-Rollup.
 
+![taiko pic](https://github.com/0xfunda/taiko/blob/main/20221228_011808.jpg)
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/taikoxyz)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/taikoxyz)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](taiko.xyz)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>](https://discord.gg/taikoxyz)
+
+## Runing node Step by Step
 
 ### apt update & upgrade 
 ```
